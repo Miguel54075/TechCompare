@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 10% 4%;
+    --foreground: 0 0% 95%;
+    --card: 240 5% 11%;
+    --card-foreground: 0 0% 95%;
+    --muted: 240 4% 16%;
+    --muted-foreground: 240 5% 66%;
+    --secondary: 240 4% 16%;
+    --secondary-foreground: 0 0% 95%;
+    --primary: 160 84% 39%;
+    --primary-foreground: 240 10% 4%;
+    --border: 240 4% 20%;
+    --input: 240 4% 20%;
+    --ring: 160 84% 45%;
+    --radius: 0.75rem;
+    color-scheme: dark;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+      "Helvetica Neue", Arial, sans-serif;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+  }
+
+  table {
+    font-variant-numeric: tabular-nums;
+  }
+}

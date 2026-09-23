@@ -1,0 +1,86 @@
+[
+  {
+    "id": "wooting-60he",
+    "category": "keyboards",
+    "brand": "Wooting",
+    "name": "60HE",
+    "price_usd": 175,
+    "profile_hints": ["competitive"],
+    "specs": {
+      "switch_type": "Magnético (Hall Effect)",
+      "switch_name": "Lekker",
+      "feedback": "Linear",
+      "actuation_force_g": 40,
+      "noise_dba": 41,
+      "layout": "60%",
+      "connection": "Cabo USB-C"
+    }
+  },
+  {
+    "id": "razer-huntsman-v3-pro-tkl",
+    "category": "keyboards",
+    "brand": "Razer",
+    "name": "Huntsman V3 Pro TKL",
+    "price_usd": 199.99,
+    "profile_hints": ["competitive"],
+    "specs": {
+      "switch_type": "Óptico",
+      "switch_name": "Analog Optical Gen-2",
+      "feedback": "Linear",
+      "actuation_force_g": 45,
+      "noise_dba": 42,
+      "layout": "TKL",
+      "connection": "Cabo USB-C"
+    }
+  },
+  {
+    "id": "logitech-g915-tkl",
+    "category": "keyboards",
+    "brand": "Logitech G",
+    "name": "G915 TKL",
+    "price_usd": 229.99,
+    "profile_hints": ["productivity", "immersion"],
+    "specs": {
+      "switch_type": "Mecânico",
+      "switch_name": "GL Tactile (low profile)",
+      "feedback": "Tátil",
+      "actuation_force_g": 50,
+      "noise_dba": 44,
+      "layout": "TKL",
+      "connection": "Sem fio 2.4 GHz / Bluetooth"
+    }
+  },
+  {
+    "id": "redragon-k552-kumara",
+    "category": "keyboards",
+    "brand": "Redragon",
+    "name": "K552 Kumara (Outemu Blue)",
+    "price_usd": 44.99,
+    "profile_hints": ["immersion"],
+    "specs": {
+      "switch_type": "Mecânico",
+      "switch_name": "Outemu Blue",
+      "feedback": "Clicky",
+      "actuation_force_g": 60,
+      "noise_dba": 55,
+      "layout": "TKL",
+      "connection": "Cabo USB"
+    }
+  },
+  {
+    "id": "logitech-mx-keys-s",
+    "category": "keyboards",
+    "brand": "Logitech",
+    "name": "MX Keys S",
+    "price_usd": 109.99,
+    "profile_hints": ["productivity", "editing"],
+    "specs": {
+      "switch_type": "Membrana",
+      "switch_name": "Perfect Stroke (tesoura)",
+      "feedback": "Tátil",
+      "noise_dba": 36,
+      "layout": "Full-size",
+      "connection": "Bluetooth / Logi Bolt"
+    }
+  }
+]

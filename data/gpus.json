@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rtx-5060-ti-16gb",
+    "category": "gpus",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 5060 Ti 16GB",
+    "price_usd": 429,
+    "profile_hints": ["productivity"],
+    "specs": { "vram_gb": 16, "memory_type": "GDDR7", "tflops": 23.7, "tdp_w": 180, "noise_dba": 33 }
+  },
+  {
+    "id": "rtx-5070",
+    "category": "gpus",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 5070",
+    "price_usd": 549,
+    "profile_hints": ["competitive", "immersion"],
+    "specs": { "vram_gb": 12, "memory_type": "GDDR7", "tflops": 30.9, "tdp_w": 250, "noise_dba": 34 }
+  },
+  {
+    "id": "rtx-5070-ti",
+    "category": "gpus",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 5070 Ti",
+    "price_usd": 749,
+    "profile_hints": ["immersion", "editing"],
+    "specs": { "vram_gb": 16, "memory_type": "GDDR7", "tflops": 43.9, "tdp_w": 300, "noise_dba": 35 }
+  },
+  {
+    "id": "rtx-5080",
+    "category": "gpus",
+    "brand": "NVIDIA",
+    "name": "GeForce RTX 5080",
+    "price_usd": 999,
+    "profile_hints": ["editing", "immersion"],
+    "specs": { "vram_gb": 16, "memory_type": "GDDR7", "tflops": 56.3, "tdp_w": 360, "noise_dba": 36 }
+  },
+  {
+    "id": "rx-9070-xt",
+    "category": "gpus",
+    "brand": "AMD",
+    "name": "Radeon RX 9070 XT",
+    "price_usd": 599,
+    "profile_hints": ["competitive", "immersion"],
+    "specs": { "vram_gb": 16, "memory_type": "GDDR6", "tflops": 48.7, "tdp_w": 304, "noise_dba": 35 }
+  }
+]

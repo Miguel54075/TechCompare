@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lg-ultragear-27gp850",
+    "category": "monitors",
+    "brand": "LG",
+    "name": "UltraGear 27GP850-B",
+    "price_usd": 379.99,
+    "profile_hints": ["immersion", "competitive"],
+    "specs": { "panel_type": "IPS", "refresh_hz": 165, "response_ms": 1, "resolution": "2560x1440", "size_in": 27 }
+  },
+  {
+    "id": "samsung-odyssey-g5-27",
+    "category": "monitors",
+    "brand": "Samsung",
+    "name": "Odyssey G5 27\"",
+    "price_usd": 249.99,
+    "profile_hints": ["immersion"],
+    "specs": { "panel_type": "VA", "refresh_hz": 165, "response_ms": 1, "resolution": "2560x1440", "size_in": 27 }
+  },
+  {
+    "id": "asus-rog-swift-pg27aqn",
+    "category": "monitors",
+    "brand": "ASUS",
+    "name": "ROG Swift PG27AQN",
+    "price_usd": 799.99,
+    "profile_hints": ["competitive"],
+    "specs": { "panel_type": "IPS", "refresh_hz": 360, "response_ms": 1, "resolution": "2560x1440", "size_in": 27 }
+  },
+  {
+    "id": "alienware-aw3423dwf",
+    "category": "monitors",
+    "brand": "Alienware",
+    "name": "AW3423DWF (QD-OLED)",
+    "price_usd": 799.99,
+    "profile_hints": ["immersion", "editing"],
+    "specs": { "panel_type": "OLED", "refresh_hz": 165, "response_ms": 0.1, "resolution": "3440x1440", "size_in": 34 }
+  },
+  {
+    "id": "benq-zowie-xl2546k",
+    "category": "monitors",
+    "brand": "BenQ ZOWIE",
+    "name": "XL2546K",
+    "price_usd": 549.99,
+    "profile_hints": ["competitive"],
+    "specs": { "panel_type": "TN", "refresh_hz": 240, "response_ms": 1, "resolution": "1920x1080", "size_in": 24.5 }
+  }
+]

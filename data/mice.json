@@ -1,0 +1,104 @@
+[
+  {
+    "id": "logitech-g-pro-x-superlight-2",
+    "category": "mice",
+    "brand": "Logitech G",
+    "name": "G Pro X Superlight 2",
+    "price_usd": 159.99,
+    "profile_hints": ["competitive"],
+    "specs": {
+      "sensor_type": "Óptico",
+      "sensor_model": "HERO 2",
+      "dpi_max": 44000,
+      "polling_hz": 2000,
+      "weight_g": 60,
+      "connection": "Sem fio 2.4 GHz",
+      "ideal_for": ["FPS", "MOBA"]
+    }
+  },
+  {
+    "id": "razer-deathadder-v3-pro",
+    "category": "mice",
+    "brand": "Razer",
+    "name": "DeathAdder V3 Pro",
+    "price_usd": 149.99,
+    "profile_hints": ["competitive"],
+    "specs": {
+      "sensor_type": "Óptico",
+      "sensor_model": "Focus Pro 30K",
+      "dpi_max": 30000,
+      "polling_hz": 1000,
+      "weight_g": 63,
+      "connection": "Sem fio 2.4 GHz",
+      "ideal_for": ["FPS", "MOBA"]
+    }
+  },
+  {
+    "id": "razer-viper-v3-pro",
+    "category": "mice",
+    "brand": "Razer",
+    "name": "Viper V3 Pro",
+    "price_usd": 159.99,
+    "profile_hints": ["competitive"],
+    "specs": {
+      "sensor_type": "Óptico",
+      "sensor_model": "Focus Pro 35K",
+      "dpi_max": 35000,
+      "polling_hz": 8000,
+      "weight_g": 54,
+      "connection": "Sem fio 2.4 GHz",
+      "ideal_for": ["FPS"]
+    }
+  },
+  {
+    "id": "logitech-g502-x-plus",
+    "category": "mice",
+    "brand": "Logitech G",
+    "name": "G502 X Plus",
+    "price_usd": 159.99,
+    "profile_hints": ["immersion"],
+    "specs": {
+      "sensor_type": "Óptico",
+      "sensor_model": "HERO 25K",
+      "dpi_max": 25600,
+      "polling_hz": 1000,
+      "weight_g": 106,
+      "connection": "Sem fio 2.4 GHz",
+      "ideal_for": ["MOBA", "MMO"]
+    }
+  },
+  {
+    "id": "logitech-mx-master-3s",
+    "category": "mice",
+    "brand": "Logitech",
+    "name": "MX Master 3S",
+    "price_usd": 99.99,
+    "profile_hints": ["productivity", "editing"],
+    "specs": {
+      "sensor_type": "Óptico",
+      "sensor_model": "Darkfield",
+      "dpi_max": 8000,
+      "polling_hz": 125,
+      "weight_g": 141,
+      "connection": "Bluetooth / Logi Bolt",
+      "ideal_for": ["Produtividade", "Edição"]
+    }
+  },
+  {
+    "id": "logitech-g305",
+    "category": "mice",
+    "brand": "Logitech G",
+    "name": "G305 Lightspeed",
+    "price_usd": 59.99,
+    "profile_hints": ["productivity"],
+    "specs": {
+      "sensor_type": "Óptico",
+      "sensor_model": "HERO 12K",
+      "dpi_max": 12000,
+      "polling_hz": 1000,
+      "weight_g": 99,
+      "connection": "Sem fio 2.4 GHz",
+      "ideal_for": ["MOBA", "Produtividade"]
+    }
+  }
+]

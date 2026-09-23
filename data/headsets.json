@@ -1,0 +1,77 @@
+[
+  {
+    "id": "hyperx-cloud-ii",
+    "category": "headsets",
+    "brand": "HyperX",
+    "name": "Cloud II",
+    "price_usd": 99.99,
+    "profile_hints": ["immersion", "competitive"],
+    "specs": {
+      "driver_mm": 53,
+      "impedance_ohm": 60,
+      "noise_isolation": "Passivo",
+      "mic_quality": 6,
+      "connection": "USB / P2"
+    }
+  },
+  {
+    "id": "logitech-g-pro-x-2-lightspeed",
+    "category": "headsets",
+    "brand": "Logitech G",
+    "name": "G Pro X 2 Lightspeed",
+    "price_usd": 249.99,
+    "profile_hints": ["competitive"],
+    "specs": {
+      "driver_mm": 50,
+      "impedance_ohm": 39,
+      "noise_isolation": "Passivo",
+      "mic_quality": 8,
+      "connection": "Sem fio 2.4 GHz / Bluetooth"
+    }
+  },
+  {
+    "id": "steelseries-arctis-nova-pro-wireless",
+    "category": "headsets",
+    "brand": "SteelSeries",
+    "name": "Arctis Nova Pro Wireless",
+    "price_usd": 349.99,
+    "profile_hints": ["immersion", "productivity"],
+    "specs": {
+      "driver_mm": 40,
+      "impedance_ohm": 38,
+      "noise_isolation": "ANC",
+      "mic_quality": 8,
+      "connection": "Sem fio 2.4 GHz / Bluetooth"
+    }
+  },
+  {
+    "id": "sony-wh-1000xm5",
+    "category": "headsets",
+    "brand": "Sony",
+    "name": "WH-1000XM5",
+    "price_usd": 399.99,
+    "profile_hints": ["productivity", "editing"],
+    "specs": {
+      "driver_mm": 30,
+      "impedance_ohm": 48,
+      "noise_isolation": "ANC",
+      "mic_quality": 6,
+      "connection": "Bluetooth / P2"
+    }
+  },
+  {
+    "id": "razer-blackshark-v2-x",
+    "category": "headsets",
+    "brand": "Razer",
+    "name": "BlackShark V2 X",
+    "price_usd": 49.99,
+    "profile_hints": ["competitive"],
+    "specs": {
+      "driver_mm": 50,
+      "impedance_ohm": 32,
+      "noise_isolation": "Passivo",
+      "mic_quality": 6,
+      "connection": "P2"
+    }
+  }
+]
